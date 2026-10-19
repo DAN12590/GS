@@ -1,4 +1,4 @@
-public class pruebaTesoro {
+public class Tesoro {
     public static void main(String[] args) {
         int ranLin;
         int ranCol;
