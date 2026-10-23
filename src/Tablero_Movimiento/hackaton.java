@@ -110,6 +110,9 @@ public class hackaton {
                 }
                 System.out.println();
             }
+            if (matriz[filaOld][colOld] == 'B'){
+                vidas--;
+            }
         }
 
     }
