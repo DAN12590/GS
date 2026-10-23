@@ -1,3 +1,5 @@
+package ej1SopaLetras;
+
 public class ej1SopaLetras {
     public static void main(String[] args) {
         String abecedario = "abcdefghijklmnñopqrstuvwxyz";
